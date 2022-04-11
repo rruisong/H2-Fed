@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/Mnist/
+/models_results/
+/figures/
+/results/
+/data/mldata/client/
+/data/mldata/rsu/
