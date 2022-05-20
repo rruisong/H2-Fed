@@ -82,4 +82,4 @@ The training parameters can be edited in 'H2-Fed/config/*'
  - Liguo Zhou
  - Venkatnarayanan, Lakshminarasimhan 
  - Prof. Dr.-Ing. Andreas Festag ([linkedin](https://www.linkedin.com/in/andreas-festag-97b7011/), [web](https://festag-net.de/))
- - Prof. Dr.-Ing. habil. Alois C. Knoll ([linkedin](https://www.linkedin.com/in/alois-knoll-505480166/))
+ - Prof. Dr.-Ing. habil. Alois C. Knoll ([linkedin](https://www.linkedin.com/in/alois-knoll-505480166/), [web](https://www.in.tum.de/en/i06/people/prof-dr-ing-habil-alois-knoll/))
