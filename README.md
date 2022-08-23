@@ -77,6 +77,18 @@ The training parameters can be edited in 'H2-Fed/config/*'
     1. cd H2-Fed/post_processing
     2. python main_plot.py
 
+## Citation
+
+If you find this work is useful, please cite our paper:
+```
+@article{song2022federated,
+  title={Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS},
+  author={Song, Rui and Zhou, Liguo and Lakshminarasimhan, Venkatnarayanan and Festag, Andreas and Knoll, Alois},
+  journal={arXiv preprint arXiv:2204.00215},
+  year={2022}
+}
+```
+
 ### Authors: 
  - Rui Song ([linkedin](https://www.linkedin.com/in/rui-song-923854112/))
  - Liguo Zhou
