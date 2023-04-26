@@ -81,12 +81,15 @@ The training parameters can be edited in 'H2-Fed/config/*'
 
 If you find this work is useful, please cite our paper:
 ```
-@article{song2022federated,
-  title={Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS},
+@INPROCEEDINGS{9922064,
   author={Song, Rui and Zhou, Liguo and Lakshminarasimhan, Venkatnarayanan and Festag, Andreas and Knoll, Alois},
-  journal={arXiv preprint arXiv:2204.00215},
-  year={2022}
-}
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3502-3508},
+  doi={10.1109/ITSC55140.2022.9922064}}
 ```
 
 ### Authors: 
